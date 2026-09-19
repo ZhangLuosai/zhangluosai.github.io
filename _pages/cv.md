@@ -80,7 +80,7 @@ Grants and Funding
 
 Service and leadership
 ======
-* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018–2020)
+* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018–2023)
 * Referee: Journal of Economic Behavior & Organization (JEBO)
 
 Honors and Awards
