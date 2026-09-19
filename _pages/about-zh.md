@@ -35,7 +35,7 @@ layout: single-zh
 
 1. Zhang, L. (2025). ["The Properness of Weak Stability Notions."](/files/Zhang_2025_Properness_Weak_Stability.pdf) *Economics Letters*, **247**, 112163.
 
-2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). "Some New Characterizations of Top Trading Cycles." *Journal of Mathematical Economics*, **121**, 103190. [PDF](/files/Zhang_2025_TTC_Characterizations.pdf) · [DOI](https://doi.org/10.1016/j.jmateco.2025.103190)
+2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). ["Some New Characterizations of Top Trading Cycles."](/files/Zhang_2025_TTC_Characterizations.pdf) *Journal of Mathematical Economics*, **121**, 103190.
 
 工作论文与在审论文
 ======
