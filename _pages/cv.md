@@ -74,7 +74,7 @@ Teaching
 
 Grants and Funding
 ======
-* **Shandong Postdoctoral Innovation Talent Support Program (seed)** (Grant No. SDZZ-SH-20201012), 2025.9 – 2027.9
+* **Shandong Postdoctoral Innovation Talent Support Program (Seed)** (Grant No. SDZZ-SH-20201012), 2025.9 – 2027.9
   * Project: "Stability–Efficiency Trade-offs in Dynamic Labor Market Matching: The Role of Strategic Commitment and Legal Regulation"
   * Role: Principal Investigator
 
