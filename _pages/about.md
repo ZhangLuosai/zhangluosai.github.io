@@ -35,7 +35,7 @@ Selected Publications
 
 1. Zhang, L. (2025). <a href="/files/Zhang_2025_Properness_Weak_Stability.pdf" target="_blank" rel="noopener" style="text-decoration: underline;">“The Properness of Weak Stability Notions.”</a> *Economics Letters*, **247**, 112163.
 
-2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). “Some New Characterizations of Top Trading Cycles.” *Journal of Mathematical Economics*, **121**, 103190. <a href="/files/Zhang_2025_TTC_Characterizations.pdf" target="_blank" rel="noopener">[PDF]</a> · <a href="https://doi.org/10.1016/j.jmateco.2025.103190" target="_blank" rel="noopener">[DOI]</a>
+2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). <a href="/files/Zhang_2025_TTC_Characterizations.pdf" target="_blank" rel="noopener" style="text-decoration: underline;">“Some New Characterizations of Top Trading Cycles.”</a> *Journal of Mathematical Economics*, **121**, 103190.
 
 Working Papers and Papers Under Review
 ======
