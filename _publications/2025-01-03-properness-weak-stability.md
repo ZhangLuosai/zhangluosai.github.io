@@ -13,3 +13,4 @@ citation: 'Zhang, L. (2025). "The Properness of Weak Stability Notions." <i>Econ
 This paper introduces a criterion called properness to evaluate different weak stability notions, ensuring theoretical consistency across matching settings.
 
 [PDF](/files/Zhang_2025_Properness_Weak_Stability.pdf) · [Published version (DOI)](https://doi.org/10.1016/j.econlet.2024.112163)
+

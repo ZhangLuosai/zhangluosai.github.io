@@ -10,9 +10,11 @@ redirect_from:
 
 I am a Postdoctoral Researcher at the Center for Economic Research, Shandong University. I received my Ph.D. in Economics from the Shanghai University of Finance and Economics in 2025.
 
-My research interests include **matching theory**, **market design**, **game theory**, and **mechanism design**, with a particular focus on dynamic and multi-period matching. I study how stability, commitment, strategic behavior, and institutional constraints shape matching outcomes over time.
+My research interests include **matching theory and market design**, **game theory and mechanism design**, and **information design**, with a particular focus on dynamic and multi-period matching. I study how stability, commitment, strategic behavior, and institutional constraints shape matching outcomes over time.
 
 My research has been published in *Economics Letters* and the *Journal of Mathematical Economics*. My current work examines the implementation and non-cooperative foundations of dynamic matching rules, the role of commitment and legal enforcement in dynamic matching markets, and positional preferences in school choice.
+
+[Download CV (PDF)]({{ '/files/Luosai_Zhang_CV_EN.pdf' | relative_url }})
 
 Research Interests
 ======
@@ -27,8 +29,8 @@ Education
 ======
 
 - **Ph.D. in Economics**, Shanghai University of Finance and Economics, 2025
-- **M.Sc. in Econometrics**, Shanghai University of International Business and Economics, 2016
-- **B.S. in Psychology**, Minor in Economics, Yanbian University, 2012
+- **Master's in Quantitative Economics**, Shanghai University of International Business and Economics, 2016
+- **Bachelor's in Psychology**, Minor in Economics, Yanbian University, 2012
 
 Selected Publications
 ======
@@ -37,34 +39,45 @@ Selected Publications
 
 2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). <a href="/files/Zhang_2025_TTC_Characterizations.pdf" target="_blank" rel="noopener" style="text-decoration: underline;">“Some New Characterizations of Top Trading Cycles.”</a> *Journal of Mathematical Economics*, **121**, 103190.
 
-Working Papers and Papers Under Review
+Papers Under Review
 ======
 
 - **Nash Implementation of Dynamic Matching Rules.**  
-  Revise and resubmit, *Mathematical Social Sciences*.
+  Sole-authored. Revise and resubmit, *Mathematical Social Sciences*.
 
-- **School choice with positional preferences.**  
+- **Rank-Dependent Preferences in School Choice.**  
   With G. Fu, X. Lang, and J. Zheng. Revise and resubmit, *Games and Economic Behavior*.
 
+Working Papers
+======
+
 - **Multi-Period Matching with Externalities.**  
-  With S. Ghosh. Working paper.
+  With Sambuddha Ghosh. **Job Market Paper**.
 
 - **Instantaneous Stability and the Dynamic Matchmaker Game.**  
-  With S. Ghosh. Working paper.
+  With Sambuddha Ghosh. Working paper.
 
 - **Strategic Commitment and Legal Enforcement in Dynamic Matching.**  
   With J. Zheng. Working paper.
 
 - **Dynamic Matching with Commitments.**  
-  With M. Zhang and J. Zheng. Working paper.
+  With Mu Zhang and J. Zheng. Working paper.
+
+- **School choice with Positional contest.**  
+  With Y. Zhang and J. Zheng. Working paper.
+
+- **Major choice with Priority-Determined Positions.**  
+  Sole-authored. Working paper.
+
+- **Reputational Attribution, Retention, and Expert Communication.**  
+  Sole-authored. Working paper.
 
 Current Research Project
 ======
 
-- **Principal Investigator**, Shandong Postdoctoral Innovation Talent Program  
-  *Stability–Efficiency Trade-offs in Dynamic Employment Matching: The Role of Strategic Commitment and Legal Regulation*  
-  Grant No. SDZZ-SH-20201012, September 2025–September 2027.
+- **Principal Investigator**, Shandong Postdoctoral Innovation Talent Program (Seed Program), September 2025–September 2027.
 
-  ---
+---
 
 [中文版](/zh/)
+

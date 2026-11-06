@@ -13,3 +13,4 @@ citation: 'Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). "Some New Charac
 This paper studies the housing market problem introduced by Shapley and Scarf (1974), refining several existing characterizations of the well-known top trading cycles (TTC) rule.
 
 [PDF](/files/Zhang_2025_TTC_Characterizations.pdf) · [Published version (DOI)](https://doi.org/10.1016/j.jmateco.2025.103190)
+

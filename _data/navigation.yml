@@ -9,7 +9,7 @@ main:
     url: /teaching/
 
   - title: "CV"
-    url: /cv/
+    url: /files/Luosai_Zhang_CV_EN.pdf
 
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -28,4 +28,5 @@ zh:
     url: /zh/teaching/
 
   - title: "个人简历"
-    url: /zh/cv/
+    url: /files/Luosai_Zhang_CV_CN.pdf
+
