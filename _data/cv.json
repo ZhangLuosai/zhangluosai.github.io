@@ -1,152 +1,342 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Luosai Zhang",
+    "label": "Postdoctoral Researcher",
+    "email": "zhangluosai@126.com",
+    "phone": "+86 15026883672",
+    "website": "https://zhangluosai.github.io",
+    "summary": "Postdoctoral Researcher at the Center for Economic Research, Shandong University. Research interests: matching theory and market design; game theory and mechanism design; information design.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Jinan",
+      "countryCode": "CN",
+      "region": "Shandong"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "xj1qrhgAAAAJ",
+        "url": "https://scholar.google.com/citations?user=xj1qrhgAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0006-3318-3108",
+        "url": "https://orcid.org/0009-0006-3318-3108"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "Shandong University",
+        "username": "",
+        "url": "https://faculty.sdu.edu.cn/zhangluosai/en/index.htm"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Center for Economic Research, Shandong University",
+      "position": "Postdoctoral Researcher",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Current appointment.",
+      "highlights": []
+    },
+    {
+      "company": "School of Economics, Shanghai University of Finance and Economics",
+      "position": "Research Assistant",
+      "startDate": "2023-09",
+      "endDate": "2025-06",
+      "summary": "Research assistant for Qianfeng Tang.",
+      "highlights": []
+    },
+    {
+      "company": "Shanghai Hundsun JuYuan Data Service Co., Ltd.",
+      "position": "Junior Research Fellow",
+      "startDate": "2016-04",
+      "endDate": "2017-04",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "BASF (China) Co., Ltd.",
+      "position": "Credit Risk Management Intern",
+      "startDate": "2015-05",
+      "endDate": "2015-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Shenzhen Zhenai Network Information Technology Co., Ltd.",
+      "position": "Matchmaking Customer Service Representative",
+      "startDate": "2012-09",
+      "endDate": "2013-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Helong No. 7 Middle School, Yanbian, Jilin",
+      "position": "Mental Health Teacher",
+      "startDate": "2010-09",
+      "endDate": "2011-02",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Shanghai University of Finance and Economics",
+      "area": "Ph.D. in Economics",
+      "studyType": "Ph.D.",
+      "startDate": "2017",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": [],
+      "dissertation": "Essays on Dynamic Stability in Matching Models",
+      "supervisor": "Sambuddha Ghosh"
+    },
+    {
+      "institution": "Shanghai University of International Business and Economics",
+      "area": "Master's in Quantitative Economics",
+      "studyType": "Master's",
+      "startDate": "2013",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Yanbian University",
+      "area": "Bachelor's in Psychology, Minor in Economics",
+      "studyType": "Bachelor's",
+      "startDate": "2008",
       "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Software",
+      "keywords": [
+        "LaTeX",
+        "Mathematica",
+        "Matlab",
+        "MySQL",
+        "Stata"
+      ]
+    },
+    {
+      "name": "Professional Qualification",
+      "keywords": [
+        "Psychological Counselor (Level 3)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "PSC: Level 2, Grade A"
+    },
+    {
+      "language": "English",
+      "fluency": "CET-6: 549"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Matching Theory and Market Design",
+      "keywords": []
+    },
+    {
+      "name": "Game Theory and Mechanism Design",
+      "keywords": []
+    },
+    {
+      "name": "Information Design",
+      "keywords": []
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "The Properness of Weak Stability Notions",
+      "publisher": "Economics Letters",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1016/j.econlet.2024.112163",
+      "summary": "Zhang, L. (2025). Economics Letters, 247, 112163.",
+      "authors": [
+        "Zhang, L."
+      ],
+      "volume": "247",
+      "articleNumber": "112163"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Some New Characterizations of Top Trading Cycles",
+      "publisher": "Journal of Mathematical Economics",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1016/j.jmateco.2025.103190",
+      "summary": "Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). Journal of Mathematical Economics, 121, 103190.",
+      "authors": [
+        "Chen, Y.",
+        "Jiao, Z.",
+        "Zhang, C.",
+        "Zhang, L."
+      ],
+      "volume": "121",
+      "articleNumber": "103190"
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Advanced Microeconomics III",
+      "institution": "School of Economics, Shanghai University of Finance and Economics",
+      "date": "2021-09",
+      "endDate": "2022-01",
+      "role": "Teaching Assistant, Ph.D. course",
+      "description": "September 2021 - January 2022. Instructor: Sambuddha Ghosh."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Advanced Topics in Microeconomics",
+      "institution": "School of Economics, Shanghai University of Finance and Economics",
+      "date": "2020-09",
+      "endDate": "2021-01",
+      "role": "Teaching Assistant, Ph.D. course",
+      "description": "September 2020 - January 2021. Instructors: Quan Wen, Yongchao Zhang, and Qianfeng Tang."
+    },
+    {
+      "course": "Game Theory and Information Economics",
+      "institution": "School of Economics, Shanghai University of Finance and Economics",
+      "date": "2019-03",
+      "endDate": "2020-07",
+      "role": "Teaching Assistant, Undergraduate course",
+      "description": "March 2019 - July 2020. Instructors: Seokjong Ryu and Cuihong Fan."
+    },
+    {
+      "course": "Mathematical Analysis III",
+      "institution": "School of Economics, Shanghai University of Finance and Economics",
+      "date": "2019-03",
+      "endDate": "2020-07",
+      "role": "Teaching Assistant, Master's course",
+      "description": "March 2019 - July 2020. Instructor: Daohan Qin."
+    },
+    {
+      "course": "Advanced Microeconomics I",
+      "institution": "International Business School, Shanghai University of International Business and Economics",
+      "date": "2013-09",
+      "endDate": "2014-01",
+      "role": "Teaching Assistant, Master's course",
+      "description": "September 2013 - January 2014. Instructor: Huiwen Li."
     }
   ],
-  "portfolio": [
+  "portfolio": [],
+  "workingPapers": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Nash Implementation of Dynamic Matching Rules",
+      "coauthors": [],
+      "status": "Revise and resubmit",
+      "journal": "Mathematical Social Sciences",
+      "jobMarketPaper": false
+    },
+    {
+      "name": "Rank-Dependent Preferences in School Choice",
+      "coauthors": [
+        "G. Fu",
+        "X. Lang",
+        "J. Zheng"
+      ],
+      "status": "Revise and resubmit",
+      "journal": "Games and Economic Behavior",
+      "jobMarketPaper": false
+    },
+    {
+      "name": "Multi-Period Matching with Externalities",
+      "coauthors": [
+        "Sambuddha Ghosh"
+      ],
+      "status": "Working paper",
+      "journal": "",
+      "jobMarketPaper": true
+    },
+    {
+      "name": "Instantaneous Stability and the Dynamic Matchmaker Game",
+      "coauthors": [
+        "Sambuddha Ghosh"
+      ],
+      "status": "Working paper",
+      "journal": "",
+      "jobMarketPaper": false
+    },
+    {
+      "name": "Strategic Commitment and Legal Enforcement in Dynamic Matching",
+      "coauthors": [
+        "J. Zheng"
+      ],
+      "status": "Working paper",
+      "journal": "",
+      "jobMarketPaper": false
+    },
+    {
+      "name": "Dynamic Matching with Commitments",
+      "coauthors": [
+        "Mu Zhang",
+        "J. Zheng"
+      ],
+      "status": "Working paper",
+      "journal": "",
+      "jobMarketPaper": false
+    },
+    {
+      "name": "School choice with Positional contest",
+      "coauthors": [
+        "Yongchao Zhang",
+        "J. Zheng"
+      ],
+      "status": "Working paper",
+      "journal": "",
+      "jobMarketPaper": false
+    },
+    {
+      "name": "Major choice with Priority-Determined Positions",
+      "coauthors": [],
+      "status": "Working paper",
+      "journal": "",
+      "jobMarketPaper": false
+    },
+    {
+      "name": "Reputational Attribution, Retention, and Expert Communication",
+      "coauthors": [],
+      "status": "Working paper",
+      "journal": "",
+      "jobMarketPaper": false
+    }
+  ],
+  "grants": [
+    {
+      "name": "Shandong Postdoctoral Innovation Talent Program (Seed Program)",
+      "role": "Principal Investigator",
+      "startDate": "2025-09",
+      "endDate": "2027-09"
+    }
+  ],
+  "service": [
+    {
+      "role": "Referee",
+      "organization": "Journal of Economic Behavior & Organization (JEBO)",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "role": "Class President",
+      "organization": "Ph.D. Program in Economics, Shanghai University of Finance and Economics",
+      "startDate": "2018",
+      "endDate": "2020"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Outstanding Student Award",
+      "awarder": "Shanghai University of Finance and Economics",
+      "date": ""
     }
   ]
 }
+

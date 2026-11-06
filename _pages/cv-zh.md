@@ -9,82 +9,100 @@ author: zh
 
 {% include base_path %}
 
-教育背景
+[�������ļ�����PDF��]({{ '/files/Luosai_Zhang_CV_CN.pdf' | relative_url }})
+
+�о�����
 ======
-* 2017 – 2025：经济学博士，上海财经大学
-  * 博士论文：《匹配模型中的动态稳定性研究》
-  * 导师：Sambuddha Ghosh
-* 2013 – 2016：计量经济学硕士，上海对外经贸大学
-* 2008 – 2012：心理学学士（主修），经济学辅修，延边大学
 
-工作经历
+ƥ���������г���ƣ��������������ƣ���Ϣ��ơ�
+
+��������
 ======
-* 2025.9 – 至今：博士后研究员
-  * 山东大学经济研究院
 
-* 2023.9 – 2025.6：唐前锋教授研究助理
-  * 上海财经大学经济学院
+* 2017 �C 2025������ѧ��ʿ���Ϻ��ƾ���ѧ
+  * ��ʿ���ģ�*Essays on Dynamic Stability in Matching Models*
+  * ��ʦ��Sambuddha Ghosh
+* 2013 �C 2016����������ѧ˶ʿ���Ϻ����⾭ó��ѧ
+* 2008 �C 2012������ѧѧʿ������ѧ���ޣ��ӱߴ�ѧ
 
-* 2018.9 – 2020.6：温泉教授、Seokjong Ryu教授、范翠红教授课程助教
-  * 上海财经大学经济学院
-
-* 2016.4 – 2017.4：初级研究员
-  * 上海恒生聚源数据服务有限公司
-
-* 2015.5 – 2015.8：信用风险管理实习生
-  * 巴斯夫（中国）有限公司
-
-* 2012.9 – 2013.9：婚恋匹配服务
-  * 深圳市珍爱网信息技术有限公司
-
-技能
+ѧ��ְλ
 ======
-* 语言：英语、普通话
-* 计算机：LaTeX、MySQL、Stata、Mathematica
-* 其他：心理咨询师（三级）
 
-发表论文
+* 2025.9 �C ���񣺲�ʿ���о�Ա��ɽ����ѧ�����о�Ժ
+
+�ѷ�������
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-工作论文
+��������
 ======
-1. "Nash Implementation of Dynamic Matching Rules," 2026. *Revise and resubmit at Mathematical Social Sciences.*
-2. "Rank-Dependent Preferences in School Choice," with G. Fu, X. Lang, and J. Zheng, 2026. *Revise and resubmit at Games and Economic Behavior.*
-3. "Multi-period Matching with Externalities," with S. Ghosh, 2025.
-4. "Instantaneous Stability and the Matchmaker Game," with S. Ghosh, 2023.
-5. "Strategic Commitment and Legal Enforcement in Dynamic Matching," with J. Zheng, 2026.
-6. "Dynamic Matching with Commitments," with M. Zhang and J. Zheng, 2026.
 
-会议报告
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+1. **Nash Implementation of Dynamic Matching Rules.** ���������ޣ�Revise and resubmit����*Mathematical Social Sciences*��
+2. **Rank-Dependent Preferences in School Choice.** �����ߣ����𻪡�����֣�ݡ����ޣ�Revise and resubmit����*Games and Economic Behavior*��
 
-教学经历
+��������
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-科研项目
-======
-* **山东省博士后创新人才支持计划**（项目编号：SDZZ-SH-20201012），2025.9 – 2027.9
-  * 项目名称：动态劳动力市场匹配中的稳定性-效率权衡：策略承诺与法律规制的作用
-  * 角色：主持人
+1. **Multi-Period Matching with Externalities.** �����ߣ�Sambuddha Ghosh��**�����г����ģ�Job Market Paper��**��
+2. **Instantaneous Stability and the Dynamic Matchmaker Game.** �����ߣ�Sambuddha Ghosh���������ġ�
+3. **Strategic Commitment and Legal Enforcement in Dynamic Matching.** �����ߣ�֣�ݡ��������ġ�
+4. **Dynamic Matching with Commitments.** �����ߣ�Mu Zhang��֣�ݡ��������ġ�
+5. **School choice with Positional contest.** �����ߣ���������֣�ݡ��������ġ�
+6. **Major choice with Priority-Determined Positions.** �������������ġ�
+7. **Reputational Attribution, Retention, and Expert Communication.** �������������ġ�
 
-学术服务
+������Ŀ
 ======
-* 上海财经大学经济学博士班班长（2018–2020）
-* 审稿人：*Journal of Economic Behavior & Organization (JEBO)*
 
-荣誉奖励
-======
-* 上海财经大学优秀学生奖
+* **ɽ��ʡ��ʿ�����˲żƻ���Ŀ�����Ӽƻ���**��2025.9 �C 2027.9������
 
-推荐人
+�������ѧ����
 ======
-* 如有需要可提供
+
+* 2023.9 �C 2025.6�����У��Ϻ��ƾ���ѧ����ѧԺ
+  * ������ʦ����ǰ��
+
+* 2021.9 �C 2022.1�����߼�΢�۾���ѧIII����ʿ���γ����̣��Ϻ��ƾ���ѧ����ѧԺ
+  * ������ʦ��Sambuddha Ghosh
+
+* 2020.9 �C 2021.1�����߼�΢�۾���ѧר�⡷��ʿ���γ����̣��Ϻ��ƾ���ѧ����ѧԺ
+  * ������ʦ��Quan Wen������������ǰ��
+
+* 2019.3 �C 2020.7��������������Ϣ����ѧ���������γ����̣��Ϻ��ƾ���ѧ����ѧԺ
+  * ������ʦ��Seokjong Ryu�������
+
+* 2019.3 �C 2020.7������ѧ����III��˶ʿ���γ����̣��Ϻ��ƾ���ѧ����ѧԺ
+  * ������ʦ��������
+
+* 2013.9 �C 2014.1�����߼�΢�۾���ѧI��˶ʿ���γ����̣��Ϻ����⾭ó��ѧ���ʾ�óѧԺ
+  * ������ʦ�������
+
+������������
+======
+
+* 2016.4 �C 2017.4�������о�Ա���Ϻ�������Դ���ݷ������޹�˾
+* 2015.5 �C 2015.8�����÷��չ���ʵϰ������˹���й������޹�˾
+* 2012.9 �C 2013.8������ͷ��������䰮����Ϣ�������޹�˾
+* 2010.9 �C 2011.2������������ʦ������ʡ�ӱ��ݺ����е�����ѧУ
+
+ѧ��������ѧ������
+======
+
+* ��������ˣ�*Journal of Economic Behavior & Organization*��JEBO��
+* �Ϻ��ƾ���ѧ����ѧ��ʿ��೤��2018�C2020��
+
+�����뽱��
+======
+
+* �Ϻ��ƾ���ѧ����ѧ����
+
+����
+======
+
+* ���ԣ���ͨ����PSC�������׵ȣ���Ӣ�CET-6��549�֣�
+* ְҵ�ʸ�������ѯʦ��������
+* ������LaTeX��Mathematica��Matlab��MySQL��Stata
+

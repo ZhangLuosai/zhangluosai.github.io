@@ -9,82 +9,109 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)]({{ '/files/Luosai_Zhang_CV_EN.pdf' | relative_url }})
+
+Research Interests
+======
+
+Matching Theory and Market Design; Game Theory and Mechanism Design; Information Design.
+
 Education
 ======
-* 2017 – 2025: Ph.D. in Economics, Shanghai University of Finance and Economics (SUFE)
-  * Thesis: "Essays on Dynamic Stability in Matching Models"
+
+* 2017 �C 2025: Ph.D. in Economics, Shanghai University of Finance and Economics (SUFE)
+  * Dissertation: "Essays on Dynamic Stability in Matching Models"
   * Supervisor: Sambuddha Ghosh
-* 2013 – 2016: M.Sc. in Econometrics, Shanghai University of International Business and Economics
-* 2008 – 2012: B.S. in Psychology (Major), Economics (Minor), Yanbian University
+* 2013 �C 2016: Master's in Quantitative Economics, Shanghai University of International Business and Economics
+* 2008 �C 2012: Bachelor's in Psychology (Major), Economics (Minor), Yanbian University
 
-Employment
+Academic Appointment
 ======
-* 2025.9 – present: Postdoctoral Researcher
+
+* 2025.9 �C present: Postdoctoral Researcher
   * Center for Economic Research, Shandong University
-
-* 2023.9 – 2025.6: Research Assistant for Qianfeng Tang
-  * School of Economics, SUFE
-
-* 2018.9 – 2020.6: Teaching Assistant for Quan Wen, Seokjong Ryu, and Cuihong Fan
-  * School of Economics, SUFE
-
-* 2016.4 – 2017.4: Junior Research Fellow
-  * Shanghai Hundsun JuYuan Data Service Co., Ltd.
-
-* 2015.5 – 2015.8: Credit Risk Management Intern
-  * BASF (China) Co., Ltd.
-
-* 2012.9 – 2013.9: Matchmaking Service
-  * Shenzhen Zhenai Network Information Technology Co., Ltd.
-
-Skills
-======
-* Languages: English, Mandarin Chinese
-* Computers: LaTeX, MySQL, Stata, Mathematica
-* Others: Psychological Counselling Training (Level-3)
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Papers Under Review
+======
+
+1. **Nash Implementation of Dynamic Matching Rules.** Sole-authored. Revise and resubmit, *Mathematical Social Sciences*.
+2. **Rank-Dependent Preferences in School Choice.** With G. Fu, X. Lang, and J. Zheng. Revise and resubmit, *Games and Economic Behavior*.
+
 Working Papers
 ======
-1. "Nash Implementation of Dynamic Matching Rules," 2026. *Revise and resubmit at Mathematical Social Sciences.*
-2. "Rank-Dependent Preferences in School Choice," with G. Fu, X. Lang, and J. Zheng, 2026. *Revise and resubmit at Games and Economic Behavior.*
-3. "Multi-period Matching with Externalities," with S. Ghosh, 2025.
-4. "Instantaneous Stability and the Matchmaker Game," with S. Ghosh, 2023.
-5. "Strategic Commitment and Legal Enforcement in Dynamic Matching," with J. Zheng, 2026.
-6. "Dynamic Matching with Commitments," with M. Zhang and J. Zheng, 2026.
 
-Conference Proceedings
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. **Multi-Period Matching with Externalities.** With Sambuddha Ghosh. **Job Market Paper**.
+2. **Instantaneous Stability and the Dynamic Matchmaker Game.** With Sambuddha Ghosh. Working paper.
+3. **Strategic Commitment and Legal Enforcement in Dynamic Matching.** With J. Zheng. Working paper.
+4. **Dynamic Matching with Commitments.** With Mu Zhang and J. Zheng. Working paper.
+5. **School choice with Positional contest.** With Y. Zhang and J. Zheng. Working paper.
+6. **Major choice with Priority-Determined Positions.** Sole-authored. Working paper.
+7. **Reputational Attribution, Retention, and Expert Communication.** Sole-authored. Working paper.
 
 Grants and Funding
 ======
-* **Shandong Postdoctoral Innovation Talent Support Program** (Grant No. SDZZ-SH-20201012), 2025.9 – 2027.9
-  * Project: "Stability–Efficiency Trade-offs in Dynamic Labor Market Matching: The Role of Strategic Commitment and Legal Regulation"
+
+* **Shandong Postdoctoral Innovation Talent Program (Seed Program)**, 2025.9 �C 2027.9
   * Role: Principal Investigator
 
-Service and leadership
+Research and Teaching Experience
 ======
-* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018–2020)
-* Referee: Journal of Economic Behavior & Organization (JEBO)
+
+* 2023.9 �C 2025.6: Research Assistant for Qianfeng Tang
+  * School of Economics, SUFE
+
+* 2021.9 �C 2022.1: Teaching Assistant, Advanced Microeconomics III (Ph.D. course)
+  * School of Economics, SUFE; instructor: Sambuddha Ghosh
+
+* 2020.9 �C 2021.1: Teaching Assistant, Advanced Topics in Microeconomics (Ph.D. course)
+  * School of Economics, SUFE; instructors: Quan Wen, Yongchao Zhang, and Qianfeng Tang
+
+* 2019.3 �C 2020.7: Teaching Assistant, Game Theory and Information Economics (undergraduate course)
+  * School of Economics, SUFE; instructors: Seokjong Ryu and Cuihong Fan
+
+* 2019.3 �C 2020.7: Teaching Assistant, Mathematical Analysis III (master's course)
+  * School of Economics, SUFE; instructor: Daohan Qin
+
+* 2013.9 �C 2014.1: Teaching Assistant, Advanced Microeconomics I (master's course)
+  * International Business School, Shanghai University of International Business and Economics; instructor: Huiwen Li
+
+Additional Professional Experience
+======
+
+* 2016.4 �C 2017.4: Junior Research Fellow
+  * Shanghai Hundsun JuYuan Data Service Co., Ltd.
+
+* 2015.5 �C 2015.8: Credit Risk Management Intern
+  * BASF (China) Co., Ltd.
+
+* 2012.9 �C 2013.8: Matchmaking Customer Service Representative
+  * Shenzhen Zhenai Network Information Technology Co., Ltd.
+
+* 2010.9 �C 2011.2: Mental Health Teacher
+  * Helong No. 7 Middle School, Yanbian, Jilin, China
+
+Service and Leadership
+======
+
+* Referee: *Journal of Economic Behavior & Organization* (JEBO)
+* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018�C2020)
 
 Honors and Awards
 ======
+
 * Outstanding Student Award, Shanghai University of Finance and Economics
 
-References
+Skills
 ======
-* Available upon request
+
+* Languages: Mandarin Chinese (PSC Level 2-A); English (CET-6: 549)
+* Software: LaTeX, Mathematica, Matlab, MySQL, Stata
+* Qualification: Psychological Counselor (Level 3)
+
