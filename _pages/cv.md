@@ -19,16 +19,16 @@ Matching Theory and Market Design; Game Theory and Mechanism Design; Information
 Education
 ======
 
-* 2017 �C 2025: Ph.D. in Economics, Shanghai University of Finance and Economics (SUFE)
+* 2017 – 2025: Ph.D. in Economics, Shanghai University of Finance and Economics (SUFE)
   * Dissertation: "Essays on Dynamic Stability in Matching Models"
   * Supervisor: Sambuddha Ghosh
-* 2013 �C 2016: Master's in Quantitative Economics, Shanghai University of International Business and Economics
-* 2008 �C 2012: Bachelor's in Psychology (Major), Economics (Minor), Yanbian University
+* 2013 – 2016: Master's in Quantitative Economics, Shanghai University of International Business and Economics
+* 2008 – 2012: Bachelor's in Psychology (Major), Economics (Minor), Yanbian University
 
 Academic Appointment
 ======
 
-* 2025.9 �C present: Postdoctoral Researcher
+* 2025.9 – present: Postdoctoral Researcher
   * Center for Economic Research, Shandong University
 
 Publications
@@ -58,50 +58,56 @@ Working Papers
 Grants and Funding
 ======
 
-* **Shandong Postdoctoral Innovation Talent Program (Seed Program)**, 2025.9 �C 2027.9
+* **Shandong Postdoctoral Innovation Talent Program (Seed Program)**, 2025.9 – 2027.9
   * Role: Principal Investigator
 
 Research and Teaching Experience
 ======
 
-* 2023.9 �C 2025.6: Research Assistant for Qianfeng Tang
+* 2023.9 – 2025.6: Research Assistant for Qianfeng Tang
   * School of Economics, SUFE
 
-* 2021.9 �C 2022.1: Teaching Assistant, Advanced Microeconomics III (Ph.D. course)
+* 2021.9 – 2022.1: Teaching Assistant, Advanced Microeconomics III (Ph.D. course)
   * School of Economics, SUFE; instructor: Sambuddha Ghosh
 
-* 2020.9 �C 2021.1: Teaching Assistant, Advanced Topics in Microeconomics (Ph.D. course)
+* 2020.9 – 2021.1: Teaching Assistant, Advanced Topics in Microeconomics (Ph.D. course)
   * School of Economics, SUFE; instructors: Quan Wen, Yongchao Zhang, and Qianfeng Tang
 
-* 2019.3 �C 2020.7: Teaching Assistant, Game Theory and Information Economics (undergraduate course)
+* 2019.3 – 2020.7: Teaching Assistant, Game Theory and Information Economics (undergraduate course)
   * School of Economics, SUFE; instructors: Seokjong Ryu and Cuihong Fan
 
-* 2019.3 �C 2020.7: Teaching Assistant, Mathematical Analysis III (master's course)
+* 2019.3 – 2020.7: Teaching Assistant, Mathematical Analysis III (master's course)
   * School of Economics, SUFE; instructor: Daohan Qin
 
-* 2013.9 �C 2014.1: Teaching Assistant, Advanced Microeconomics I (master's course)
+* 2013.9 – 2014.1: Teaching Assistant, Advanced Microeconomics I (master's course)
   * International Business School, Shanghai University of International Business and Economics; instructor: Huiwen Li
 
 Additional Professional Experience
 ======
 
-* 2016.4 �C 2017.4: Junior Research Fellow
+* 2016.4 – 2017.4: Junior Research Fellow
   * Shanghai Hundsun JuYuan Data Service Co., Ltd.
 
-* 2015.5 �C 2015.8: Credit Risk Management Intern
+* 2015.5 – 2015.8: Credit Risk Management Intern
   * BASF (China) Co., Ltd.
 
-* 2012.9 �C 2013.8: Matchmaking Customer Service Representative
+* 2012.9 – 2013.8: Matchmaking Customer Service Representative
   * Shenzhen Zhenai Network Information Technology Co., Ltd.
 
-* 2010.9 �C 2011.2: Mental Health Teacher
+* 2010.9 – 2011.2: Mental Health Teacher
   * Helong No. 7 Middle School, Yanbian, Jilin, China
+
+Conference Presentations
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
 
 Service and Leadership
 ======
 
 * Referee: *Journal of Economic Behavior & Organization* (JEBO)
-* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018�C2020)
+* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018–2020)
 
 Honors and Awards
 ======
@@ -114,4 +120,9 @@ Skills
 * Languages: Mandarin Chinese (PSC Level 2-A); English (CET-6: 549)
 * Software: LaTeX, Mathematica, Matlab, MySQL, Stata
 * Qualification: Psychological Counselor (Level 3)
+
+References
+======
+* **[Professor Sambuddha Ghosh](https://econ.sufe.edu.cn/SambuddhaGhosh_en/main.htm)**
+* **[Professor Qianfeng Tang](https://sites.google.com/view/qianfeng)**
 

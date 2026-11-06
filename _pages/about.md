@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher at the Center for Economic Research, Shandong Uni
 
 My research interests include **matching theory and market design**, **game theory and mechanism design**, and **information design**, with a particular focus on dynamic and multi-period matching. I study how stability, commitment, strategic behavior, and institutional constraints shape matching outcomes over time.
 
-My research has been published in *Economics Letters* and the *Journal of Mathematical Economics*. My current work examines the implementation and non-cooperative foundations of dynamic matching rules, the role of commitment and legal enforcement in dynamic matching markets, and preference formation in school choice.
+My research has been published in *Economics Letters* and the *Journal of Mathematical Economics*. My current work examines the implementation and non-cooperative foundations of dynamic matching rules, the role of commitment and legal enforcement in dynamic matching markets, and positional preferences in school choice.
 
 [Download CV (PDF)]({{ '/files/Luosai_Zhang_CV_EN.pdf' | relative_url }})
 
@@ -22,8 +22,8 @@ Research Interests
 - Matching Theory and Market Design
 - Dynamic and Multi-Period Matching
 - Game Theory and Mechanism Design
-- Stability, Commitment, and Implementation
-- School Choice and Information Design
+- School Choice
+- Information Design
 
 Education
 ======
@@ -35,9 +35,9 @@ Education
 Selected Publications
 ======
 
-1. Zhang, L. (2025). ��The Properness of Weak Stability Notions.�� *Economics Letters*, **247**, 112163.
+1. Zhang, L. (2025). <a href="/files/Zhang_2025_Properness_Weak_Stability.pdf" target="_blank" rel="noopener" style="text-decoration: underline;">“The Properness of Weak Stability Notions.”</a> *Economics Letters*, **247**, 112163.
 
-2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). ��Some New Characterizations of Top Trading Cycles.�� *Journal of Mathematical Economics*, **121**, 103190.
+2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). <a href="/files/Zhang_2025_TTC_Characterizations.pdf" target="_blank" rel="noopener" style="text-decoration: underline;">“Some New Characterizations of Top Trading Cycles.”</a> *Journal of Mathematical Economics*, **121**, 103190.
 
 Papers Under Review
 ======
@@ -75,9 +75,9 @@ Working Papers
 Current Research Project
 ======
 
-- **Principal Investigator**, Shandong Postdoctoral Innovation Talent Program (Seed Program), September 2025�CSeptember 2027.
+- **Principal Investigator**, Shandong Postdoctoral Innovation Talent Program (Seed Program), September 2025–September 2027.
 
 ---
 
-[���İ�](/zh/)
+[中文版](/zh/)
 

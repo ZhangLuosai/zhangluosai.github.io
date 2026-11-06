@@ -1,81 +1,81 @@
 ---
 permalink: /zh/
 title: ""
-excerpt: "������"
+excerpt: "关于我"
 author_profile: true
 lang: zh-Hans
 author: zh
 layout: single-zh
 ---
 
-����ɽ����ѧ�����о�Ժ�Ĳ�ʿ���о�Ա��2025�����Ϻ��ƾ���ѧ��þ���ѧ��ʿѧλ��
+我是山东大学经济研究院的博士后研究员。2025年于上海财经大学获得经济学博士学位。
 
-�ҵ��о���Ȥ����**ƥ���������г����**��**��������������**��**��Ϣ���**�������ע��̬�����ƥ�䡣���о��ȶ��ԡ���ŵ��������Ϊ�Լ��ƶ�Լ�������ʱ������ƥ������
+我的研究兴趣包括**匹配理论与市场设计**、**博弈论与机制设计**和**信息设计**，尤其关注动态与多期匹配。我研究稳定性、承诺、策略行为以及制度约束如何随时间塑造匹配结果。
 
-�ҵ��о��ɹ��ѷ����� *Economics Letters* �� *Journal of Mathematical Economics*��Ŀǰ���о��������춯̬ƥ������ʵʩ��Ǻ�����������̬ƥ���г��г�ŵ�뷨��ִ�е����ã��Լ�ѧУѡ���е�ƫ���γɡ�
+我的研究成果已发表于 *Economics Letters* 和 *Journal of Mathematical Economics*。目前的研究工作考察动态匹配规则的实施与非合作基础、动态匹配市场中承诺与法律执行的作用，以及学校选择中的位置偏好。
 
-[�������ļ�����PDF��]({{ '/files/Luosai_Zhang_CV_CN.pdf' | relative_url }})
+[下载中文简历（PDF）]({{ '/files/Luosai_Zhang_CV_CN.pdf' | relative_url }})
 
-�о�����
+研究兴趣
 ======
 
-- ƥ���������г����
-- ��̬�����ƥ��
-- ��������������
-- �ȶ��ԡ���ŵ��ʵʩ
-- ѧУѡ������Ϣ���
+- 匹配理论与市场设计
+- 动态与多期匹配
+- 博弈论与机制设计
+- 择校问题
+- 信息设计
 
-��������
+教育背景
 ======
 
-- **����ѧ��ʿ**���Ϻ��ƾ���ѧ��2025��
-- **��������ѧ˶ʿ**���Ϻ����⾭ó��ѧ��2016��
-- **����ѧѧʿ**������ѧ���ޣ��ӱߴ�ѧ��2012��
+- **经济学博士**，上海财经大学，2025年
+- **数量经济学硕士**，上海对外经贸大学，2016年
+- **心理学学士**，经济学辅修，延边大学，2012年
 
-�����Է���
+代表性发表
 ======
 
-1. Zhang, L. (2025). "The Properness of Weak Stability Notions." *Economics Letters*, **247**, 112163.
+1. Zhang, L. (2025). ["The Properness of Weak Stability Notions."](/files/Zhang_2025_Properness_Weak_Stability.pdf) *Economics Letters*, **247**, 112163.
 
-2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). "Some New Characterizations of Top Trading Cycles." *Journal of Mathematical Economics*, **121**, 103190.
+2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). ["Some New Characterizations of Top Trading Cycles."](/files/Zhang_2025_TTC_Characterizations.pdf) *Journal of Mathematical Economics*, **121**, 103190.
 
-��������
+在审论文
 ======
 
 - **Nash Implementation of Dynamic Matching Rules.**  
-  ���������ޣ�Revise and resubmit����*Mathematical Social Sciences*��
+  独作。大修（Revise and resubmit），*Mathematical Social Sciences*。
 
 - **Rank-Dependent Preferences in School Choice.**  
-  �����ߣ����𻪡�����֣�ݡ����ޣ�Revise and resubmit����*Games and Economic Behavior*��
+  合作者：付桂华、郎旭、郑捷。大修（Revise and resubmit），*Games and Economic Behavior*。
 
-��������
+工作论文
 ======
 
 - **Multi-Period Matching with Externalities.**  
-  �����ߣ�Sambuddha Ghosh��**�����г����ģ�Job Market Paper��**��
+  合作者：Sambuddha Ghosh。**工作市场论文（Job Market Paper）**。
 
 - **Instantaneous Stability and the Dynamic Matchmaker Game.**  
-  �����ߣ�Sambuddha Ghosh���������ġ�
+  合作者：Sambuddha Ghosh。工作论文。
 
 - **Strategic Commitment and Legal Enforcement in Dynamic Matching.**  
-  �����ߣ�֣�ݡ��������ġ�
+  合作者：郑捷。工作论文。
 
 - **Dynamic Matching with Commitments.**  
-  �����ߣ�Mu Zhang��֣�ݡ��������ġ�
+  合作者：Mu Zhang、郑捷。工作论文。
 
 - **School choice with Positional contest.**  
-  �����ߣ���������֣�ݡ��������ġ�
+  合作者：张永超、郑捷。工作论文。
 
 - **Major choice with Priority-Determined Positions.**  
-  �������������ġ�
+  独作。工作论文。
 
 - **Reputational Attribution, Retention, and Expert Communication.**  
-  �������������ġ�
+  独作。工作论文。
 
-��ǰ�о���Ŀ
+当前研究项目
 ======
 
-- **����**��ɽ��ʡ��ʿ�����˲żƻ���Ŀ�����Ӽƻ�����2025��9�¨C2027��9�¡�
+- **主持**，山东省博士后创新人才计划项目（种子计划），2025年9月–2027年9月。
 
 ---
 
