@@ -47,13 +47,14 @@ author: zh
 
 发表论文
 ======
+
+Zhang, L. “Nash Implementation of Dynamic Matching Rules.” *Mathematical Social Sciences*, forthcoming.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 工作论文
 ======
-1. "Nash Implementation of Dynamic Matching Rules," 2026. *Revise and resubmit at Mathematical Social Sciences.*
 2. "School choice with positional preferences," with G. Fu, X. Lang, and J. Zheng, 2026. *Revise and resubmit at Games and Economic Behavior.*
 3. "Multi-period Matching with Externalities," with S. Ghosh, 2025.
 4. "Instantaneous Stability and the Dynamic Matchmaker Game," with S. Ghosh, 2023.
