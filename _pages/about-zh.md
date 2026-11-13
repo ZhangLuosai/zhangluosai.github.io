@@ -12,7 +12,7 @@ layout: single-zh
 
 我的研究兴趣包括**匹配理论**、**市场设计**、**博弈论**和**机制设计**，尤其关注动态与多期匹配。我研究稳定性、承诺、策略行为以及制度约束如何随时间塑造匹配结果。
 
-我的研究成果已发表于 *Economics Letters* 和 *Journal of Mathematical Economics*。目前的研究工作考察动态匹配规则的实施与非合作基础、动态匹配市场中承诺与法律执行的作用，以及学校选择中的位置偏好。
+我的研究成果已发表于 *Economics Letters* 和 *Journal of Mathematical Economics*，另有论文已被 *Mathematical Social Sciences* 接受，即将发表。目前的研究工作考察动态匹配规则的实施与非合作基础、动态匹配市场中承诺与法律执行的作用，以及学校选择中的位置偏好。
 
 研究兴趣
 ======
