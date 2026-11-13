@@ -33,11 +33,11 @@ layout: single-zh
 代表性发表
 ======
 
-Zhang, L. “Nash Implementation of Dynamic Matching Rules.” *Mathematical Social Sciences*, forthcoming.
+1. Zhang, L. (forthcoming). “Nash Implementation of Dynamic Matching Rules.” *Mathematical Social Sciences*.
 
-1. Zhang, L. (2025). ["The Properness of Weak Stability Notions."](/files/Zhang_2025_Properness_Weak_Stability.pdf) *Economics Letters*, **247**, 112163.
+2. Zhang, L. (2025). ["The Properness of Weak Stability Notions."](/files/Zhang_2025_Properness_Weak_Stability.pdf) *Economics Letters*, **247**, 112163.
 
-2. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). ["Some New Characterizations of Top Trading Cycles."](/files/Zhang_2025_TTC_Characterizations.pdf) *Journal of Mathematical Economics*, **121**, 103190.
+3. Chen, Y., Jiao, Z., Zhang, C., and Zhang, L. (2025). ["Some New Characterizations of Top Trading Cycles."](/files/Zhang_2025_TTC_Characterizations.pdf) *Journal of Mathematical Economics*, **121**, 103190.
 
 工作论文与在审论文
 ======
