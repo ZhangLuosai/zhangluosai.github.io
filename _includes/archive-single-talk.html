@@ -1,3 +1,15 @@
+{% assign talk_title = post.title %}
+{% assign talk_type = post.type %}
+{% assign talk_venue = post.venue %}
+{% assign talk_location = post.location %}
+{% assign talk_excerpt = post.excerpt %}
+{% if page.lang == 'zh-Hans' %}
+  {% assign talk_title = post.title_zh | default: post.title %}
+  {% assign talk_type = post.type_zh | default: post.type %}
+  {% assign talk_venue = post.venue_zh | default: post.venue %}
+  {% assign talk_location = post.location_zh | default: post.location %}
+  {% assign talk_excerpt = post.excerpt_zh | default: post.excerpt %}
+{% endif %}
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -7,9 +19,9 @@
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = talk_title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.title %}
+  {% assign title = talk_title %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -36,7 +48,7 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if talk_venue %}<p class="archive__item-excerpt" itemprop="description">{{talk_type}}, {{ talk_venue }},  {{talk_location}}</p>{% endif %}
+    {% if talk_excerpt %}<div class="archive__item-excerpt" itemprop="description">{{ talk_excerpt | markdownify }}</div>{% endif %}
   </article>
 </div>
