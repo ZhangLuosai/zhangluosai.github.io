@@ -16,7 +16,7 @@ Education
 * 2017 – 2025: Ph.D. in Economics, Shanghai University of Finance and Economics (SUFE)
   * Thesis: "Essays on Dynamic Stability in Matching Models"
   * Supervisor: Sambuddha Ghosh
-* 2013 – 2016: M.Sc. in Econometrics, Shanghai University of International Business and Economics
+* 2013 – 2016: M.Sc. in Quantitative Economics, Shanghai University of International Business and Economics
 * 2008 – 2012: B.S. in Psychology (Major), Economics (Minor), Yanbian University
 
 Employment
@@ -27,8 +27,7 @@ Employment
 * 2023.9 – 2025.6: Research Assistant for Qianfeng Tang
   * School of Economics, SUFE
 
-* 2018.9 – 2020.6: Teaching Assistant for Quan Wen, Seokjong Ryu, and Cuihong Fan
-  * School of Economics, SUFE
+* Teaching assistantships: see the Teaching section below.
 
 * 2016.4 – 2017.4: Junior Research Fellow
   * Shanghai Hundsun JuYuan Data Service Co., Ltd.
@@ -36,13 +35,16 @@ Employment
 * 2015.5 – 2015.8: Credit Risk Management Intern
   * BASF (China) Co., Ltd.
 
-* 2012.9 – 2013.9: Matchmaking Customer Service Representative
+* 2012.9 – 2013.8: Matchmaking Customer Service Representative
   * Shenzhen Zhenai Network Information Technology Co., Ltd.
+
+* 2010.9 – 2011.2: Mental Health Teacher
+  * Helong No. 7 Middle School, Yanbian, Jilin, China
 
 Skills
 ======
-* Languages: English, Mandarin Chinese
-* Computers: LaTeX, MySQL, Stata, Mathematica
+* Languages: Mandarin Chinese (PSC Level 2-A), English (CET-6: 549)
+* Computers: LaTeX, Mathematica, MATLAB, MySQL, Stata
 * Qualification: Psychological Counselor (Level 3)
 
 Publications
@@ -55,11 +57,14 @@ Zhang, L. “Nash Implementation of Dynamic Matching Rules.” *Mathematical Soc
 
 Working Papers
 ======
-2. "School choice with positional preferences," with G. Fu, X. Lang, and J. Zheng, 2026. *Revise and resubmit at Games and Economic Behavior.*
-3. "Multi-period Matching with Externalities," with S. Ghosh, 2025.
-4. "Instantaneous Stability and the Dynamic Matchmaker Game," with S. Ghosh, 2023.
-5. "Strategic Commitment and Legal Enforcement in Dynamic Matching," with J. Zheng, 2026.
-6. "Dynamic Matching with Commitments," with M. Zhang and J. Zheng, 2026.
+1. "School Choice with Positional Preferences," with G. Fu, X. Lang, and J. Zheng. *Revise and resubmit at Games and Economic Behavior.*
+2. "Multi-Period Matching with Externalities," with S. Ghosh. **Job Market Paper.**
+3. "Instantaneous Stability and the Dynamic Matchmaker Game," with S. Ghosh.
+4. "Strategic Commitment and Legal Enforcement in Dynamic Matching," with J. Zheng.
+5. "Dynamic Matching with Commitments," with M. Zhang and J. Zheng.
+6. "School Choice with Positional Contest," with Y. Zhang and J. Zheng.
+7. "Major Choice with Priority-Determined Positions." Sole-authored.
+8. "Reputational Attribution, Retention, and Expert Communication." Sole-authored.
 
 Conference Presentations
 ======
@@ -75,13 +80,13 @@ Teaching
 
 Grants and Funding
 ======
-* **Shandong Postdoctoral Innovation Talent Support Program (Seed)** (Grant No. SDZZ-SH-20201012), 2025.9 – 2027.9
-  * Project: "Stability–Efficiency Trade-offs in Dynamic Labor Market Matching: The Role of Strategic Commitment and Legal Regulation"
+* **Shandong Postdoctoral Innovation Talent Program (Seed Program)** (Grant No. SDZZ-SH-20201012), 2025.9 – 2027.9
+  * Project: "Stability–Efficiency Trade-offs in Dynamic Employment Matching: The Role of Strategic Commitment and Legal Regulation"
   * Role: Principal Investigator
 
 Service and leadership
 ======
-* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018–2023)
+* Class President, Ph.D. Program in Economics, Shanghai University of Finance and Economics (2018–2020)
 * Referee: Journal of Economic Behavior & Organization (JEBO)
 
 Honors and Awards

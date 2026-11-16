@@ -27,7 +27,7 @@ Education
 ======
 
 - **Ph.D. in Economics**, Shanghai University of Finance and Economics, 2025
-- **M.Sc. in Econometrics**, Shanghai University of International Business and Economics, 2016
+- **M.Sc. in Quantitative Economics**, Shanghai University of International Business and Economics, 2016
 - **B.S. in Psychology**, Minor in Economics, Yanbian University, 2012
 
 Selected Publications
@@ -42,11 +42,11 @@ Selected Publications
 Working Papers and Papers Under Review
 ======
 
-- **School choice with positional preferences.**  
+- **School Choice with Positional Preferences.**  
   With G. Fu, X. Lang, and J. Zheng. Revise and resubmit, *Games and Economic Behavior*.
 
 - **Multi-Period Matching with Externalities.**  
-  With S. Ghosh. Working paper.
+  With S. Ghosh. **Job Market Paper.**
 
 - **Instantaneous Stability and the Dynamic Matchmaker Game.**  
   With S. Ghosh. Working paper.
@@ -57,10 +57,19 @@ Working Papers and Papers Under Review
 - **Dynamic Matching with Commitments.**  
   With M. Zhang and J. Zheng. Working paper.
 
+- **School Choice with Positional Contest.**  
+  With Y. Zhang and J. Zheng. Working paper.
+
+- **Major Choice with Priority-Determined Positions.**  
+  Sole-authored working paper.
+
+- **Reputational Attribution, Retention, and Expert Communication.**  
+  Sole-authored working paper.
+
 Current Research Project
 ======
 
-- **Principal Investigator**, Shandong Postdoctoral Innovation Talent Program  
+- **Principal Investigator**, Shandong Postdoctoral Innovation Talent Program (Seed Program)  
   *Stability–Efficiency Trade-offs in Dynamic Employment Matching: The Role of Strategic Commitment and Legal Regulation*  
   Grant No. SDZZ-SH-20201012, September 2025–September 2027.
 

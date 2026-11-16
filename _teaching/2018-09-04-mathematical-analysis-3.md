@@ -1,11 +1,12 @@
 ---
-title: "Mathematical Analysis III (Undergraduate)"
+title: "Mathematical Analysis III (Master’s)"
 collection: teaching
-type: "Undergraduate course, Teaching Assistant"
+type: "Master’s course, Teaching Assistant"
 permalink: /teaching/mathematical-analysis-3
 venue: "School of Economics, Shanghai University of Finance and Economics (SUFE)"
-date: 2018-03-01
+date: 2019-03-01
 location: "Shanghai, China"
+citation: "Teaching assistant, March 2019–July 2020. Instructors: Daohan Qin."
 ---
 
-Teaching assistant for the undergraduate course "Mathematical Analysis III," School of Economics, Shanghai University of Finance and Economics, 2018–2020.
+Teaching assistant, March 2019–July 2020. Instructors: Daohan Qin.

@@ -27,7 +27,7 @@ layout: single-zh
 ======
 
 - **经济学博士**，上海财经大学，2025年
-- **计量经济学硕士**，上海对外经贸大学，2016年
+- **数量经济学硕士**，上海对外经贸大学，2016年
 - **心理学学士**，经济学辅修，延边大学，2012年
 
 代表性发表
@@ -42,11 +42,11 @@ layout: single-zh
 工作论文与在审论文
 ======
 
-- **School choice with positional preferences.**  
+- **School Choice with Positional Preferences.**  
   合作者：G. Fu, X. Lang, and J. Zheng。大修（Revise and resubmit），*Games and Economic Behavior*。
 
 - **Multi-Period Matching with Externalities.**  
-  合作者：S. Ghosh。工作论文。
+  合作者：S. Ghosh。**工作市场论文（Job Market Paper）**。
 
 - **Instantaneous Stability and the Dynamic Matchmaker Game.**  
   合作者：S. Ghosh。工作论文。
@@ -57,10 +57,19 @@ layout: single-zh
 - **Dynamic Matching with Commitments.**  
   合作者：M. Zhang and J. Zheng。工作论文。
 
+- **School Choice with Positional Contest.**  
+  合作者：张永超、郑捷。工作论文。
+
+- **Major Choice with Priority-Determined Positions.**  
+  独作。工作论文。
+
+- **Reputational Attribution, Retention, and Expert Communication.**  
+  独作。工作论文。
+
 当前研究项目
 ======
 
-- **主持**，山东省博士后创新人才计划项目  
+- **主持**，山东省博士后创新人才计划项目（种子计划）  
   *动态就业匹配中的稳定性-效率权衡：策略承诺与法律规制的作用*  
   项目编号：SDZZ-SH-20201012，2025年9月–2027年9月。
 

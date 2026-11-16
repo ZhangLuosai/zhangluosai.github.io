@@ -4,8 +4,9 @@ collection: teaching
 type: "Ph.D. course, Teaching Assistant"
 permalink: /teaching/advanced-microeconomics-3
 venue: "School of Economics, Shanghai University of Finance and Economics (SUFE)"
-date: 2019-03-02
+date: 2021-09-01
 location: "Shanghai, China"
+citation: "Teaching assistant, September 2021–January 2022. Instructors: Sambuddha Ghosh."
 ---
 
-Teaching assistant for the Ph.D.-level course "Advanced Microeconomics III," School of Economics, Shanghai University of Finance and Economics, 2018–2020.
+Teaching assistant, September 2021–January 2022. Instructors: Sambuddha Ghosh.

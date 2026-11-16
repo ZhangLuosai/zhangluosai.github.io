@@ -4,8 +4,9 @@ collection: teaching
 type: "Ph.D. course, Teaching Assistant"
 permalink: /teaching/advanced-topics-microeconomics
 venue: "School of Economics, Shanghai University of Finance and Economics (SUFE)"
-date: 2018-09-01
+date: 2020-09-01
 location: "Shanghai, China"
+citation: "Teaching assistant, September 2020–January 2021. Instructors: Quan Wen, Yongchao Zhang, and Qianfeng Tang."
 ---
 
-Teaching assistant for the Ph.D.-level course "Advanced Topics in Microeconomics," School of Economics, Shanghai University of Finance and Economics, 2018–2020.
+Teaching assistant, September 2020–January 2021. Instructors: Quan Wen, Yongchao Zhang, and Qianfeng Tang.
