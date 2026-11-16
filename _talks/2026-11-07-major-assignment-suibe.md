@@ -1,12 +1,16 @@
 ---
 title: "Major Assignment with Priority-Determined Positions"
 collection: talks
-type: "Conference presentation / 学术报告"
+type: "Conference presentation"
+type_zh: "学术报告"
 permalink: /talks/2026-11-07-major-assignment-suibe
-venue: "4th Forum for PhD Students, Postdoctoral Researchers and Young Scholars in Theoretical and Applied Economics, Shanghai University of International Business and Economics / 第四届理论与应用经济学博士生（博士后）及青年学者论坛，上海对外经贸大学"
+venue: "4th Forum for PhD Students, Postdoctoral Researchers and Young Scholars in Theoretical and Applied Economics, Shanghai University of International Business and Economics"
+venue_zh: "第四届理论与应用经济学博士生（博士后）及青年学者论坛，上海对外经贸大学"
 date: 2026-11-07
-location: "Shanghai, China / 中国上海"
-excerpt: "Presented in Group 2, November 7, 2026. / 2026年11月7日，第二组论文报告。"
+location: "Shanghai, China"
+location_zh: "中国上海"
+excerpt: "Presented in Group 2, November 7, 2026."
+excerpt_zh: "2026年11月7日，第二组论文报告。"
 ---
 
 Presented **Major Assignment with Priority-Determined Positions** at the 4th Forum for PhD Students, Postdoctoral Researchers and Young Scholars in Theoretical and Applied Economics, Shanghai University of International Business and Economics, November 7, 2026.
