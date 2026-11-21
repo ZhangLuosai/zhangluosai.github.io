@@ -50,7 +50,6 @@ author: zh
 发表论文
 ======
 
-Zhang, L. “Nash Implementation of Dynamic Matching Rules.” *Mathematical Social Sciences*, forthcoming.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

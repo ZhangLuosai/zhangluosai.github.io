@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher at the Center for Economic Research, Shandong Uni
 
 My research interests include **matching theory**, **market design**, **game theory**, and **mechanism design**, with a particular focus on dynamic and multi-period matching. I study how stability, commitment, strategic behavior, and institutional constraints shape matching outcomes over time.
 
-My research has been published in *Economics Letters* and the *Journal of Mathematical Economics*, with a paper forthcoming in *Mathematical Social Sciences*. My current work examines the implementation and non-cooperative foundations of dynamic matching rules, the role of commitment and legal enforcement in dynamic matching markets, and positional preferences in school choice.
+My research has been published in *Mathematical Social Sciences*, *Economics Letters*, and the *Journal of Mathematical Economics*. My current work examines the implementation and non-cooperative foundations of dynamic matching rules, the role of commitment and legal enforcement in dynamic matching markets, and positional preferences in school choice.
 
 Research Interests
 ======
@@ -33,7 +33,7 @@ Education
 Selected Publications
 ======
 
-1. Zhang, L. (forthcoming). “Nash Implementation of Dynamic Matching Rules.” *Mathematical Social Sciences*.
+1. Zhang, L. (2026). <a href="https://doi.org/10.1016/j.mathsocsci.2026.102592" target="_blank" rel="noopener" style="text-decoration: underline;">“Nash Implementation of Dynamic Matching Rules.”</a> *Mathematical Social Sciences*, **144**, 102592.
 
 2. Zhang, L. (2025). <a href="/files/Zhang_2025_Properness_Weak_Stability.pdf" target="_blank" rel="noopener" style="text-decoration: underline;">“The Properness of Weak Stability Notions.”</a> *Economics Letters*, **247**, 112163.
 
