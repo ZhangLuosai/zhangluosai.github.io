@@ -33,7 +33,7 @@ layout: single-zh
 代表性发表
 ======
 
-1. Zhang, L. (2026). ["Nash Implementation of Dynamic Matching Rules."](https://doi.org/10.1016/j.mathsocsci.2026.102592) *Mathematical Social Sciences*, **144**, 102592.
+1. Zhang, L. (2026). ["Nash Implementation of Dynamic Matching Rules."](https://doi.org/10.1016/j.mathsocsci.2026.102592) *Mathematical Social Sciences*, **144**, 102592. [Elsevier 免费全文及 PDF](https://authors.elsevier.com/a/1o8g2beCENovZ)（2027 年 1 月 9 日前有效）。
 
 2. Zhang, L. (2025). ["The Properness of Weak Stability Notions."](/files/Zhang_2025_Properness_Weak_Stability.pdf) *Economics Letters*, **247**, 112163.
 

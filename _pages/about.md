@@ -33,7 +33,7 @@ Education
 Selected Publications
 ======
 
-1. Zhang, L. (2026). <a href="https://doi.org/10.1016/j.mathsocsci.2026.102592" target="_blank" rel="noopener" style="text-decoration: underline;">“Nash Implementation of Dynamic Matching Rules.”</a> *Mathematical Social Sciences*, **144**, 102592.
+1. Zhang, L. (2026). <a href="https://doi.org/10.1016/j.mathsocsci.2026.102592" target="_blank" rel="noopener" style="text-decoration: underline;">“Nash Implementation of Dynamic Matching Rules.”</a> *Mathematical Social Sciences*, **144**, 102592. [Free full text and PDF via Elsevier](https://authors.elsevier.com/a/1o8g2beCENovZ) (available before January 9, 2027).
 
 2. Zhang, L. (2025). <a href="/files/Zhang_2025_Properness_Weak_Stability.pdf" target="_blank" rel="noopener" style="text-decoration: underline;">“The Properness of Weak Stability Notions.”</a> *Economics Letters*, **247**, 112163.
 
