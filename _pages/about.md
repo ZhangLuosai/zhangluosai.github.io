@@ -66,8 +66,10 @@ Working Papers and Papers Under Review
 - **Reputational Attribution, Retention, and Expert Communication.**  
   Sole-authored working paper.
 
-Current Research Project
+Research Grants
 ======
+
+- **China Postdoctoral Science Foundation, General Program (80th Round)**, 2026. Principal Investigator (provisionally selected).
 
 - **Principal Investigator**, Shandong Postdoctoral Innovation Talent Program (Seed Program)  
   *Stability–Efficiency Trade-offs in Dynamic Employment Matching: The Role of Strategic Commitment and Legal Regulation*  
