@@ -66,8 +66,10 @@ layout: single-zh
 - **Reputational Attribution, Retention, and Expert Communication.**  
   独作。工作论文。
 
-当前研究项目
+科研项目
 ======
+
+- **中国博士后科学基金第80批面上资助**，2026年，项目负责人（拟资助，公示中）。
 
 - **主持**，山东省博士后创新人才计划项目（种子计划）  
   *动态就业匹配中的稳定性-效率权衡：策略承诺与法律规制的作用*  
