@@ -59,9 +59,9 @@ Working Papers
 1. "School Choice with Positional Preferences," with G. Fu, X. Lang, and J. Zheng. *Revise and resubmit at Games and Economic Behavior.*
 2. "Multi-Period Matching with Externalities," with S. Ghosh. **Job Market Paper.**
 3. "Instantaneous Stability and the Dynamic Matchmaker Game," with S. Ghosh.
-4. "Strategic Commitment and Legal Enforcement in Dynamic Matching," with J. Zheng.
-5. "Dynamic Matching with Commitments," with M. Zhang and J. Zheng.
-6. "School Choice with Positional Contest," with Y. Zhang and J. Zheng.
+4. "Strategic Commitment and Consent Rights in Dynamic Matching."
+5. "Paying to Compete: Knowledge Contributions and Reuse on AI Platforms." Sole-authored.
+6. "School Choice with Positional Contest," with Y. Zhang.
 7. "Major Choice with Priority-Determined Positions." Sole-authored.
 8. "Reputational Attribution, Retention, and Expert Communication." Sole-authored.
 
@@ -79,6 +79,8 @@ Teaching
 
 Grants and Funding
 ======
+* **China Postdoctoral Science Foundation, General Program (80th Round)**, 2026. Principal Investigator (provisionally selected).
+  * Project: "Dynamic Matching Theory with Commitment Mechanisms"
 * **Shandong Postdoctoral Innovation Talent Program (Seed Program)** (Grant No. SDZZ-SH-20201012), 2025.9 – 2027.9
   * Project: "Stability–Efficiency Trade-offs in Dynamic Employment Matching: The Role of Strategic Commitment and Legal Regulation"
   * Role: Principal Investigator
@@ -95,4 +97,3 @@ Honors and Awards
 References
 ======
 * **[Professor Sambuddha Ghosh](https://econ.sufe.edu.cn/SambuddhaGhosh_en/main.htm)**
-* **[Professor Qianfeng Tang](https://sites.google.com/view/qianfeng)**

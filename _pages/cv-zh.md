@@ -59,9 +59,9 @@ author: zh
 1. "School Choice with Positional Preferences," with G. Fu, X. Lang, and J. Zheng. *Revise and resubmit at Games and Economic Behavior.*
 2. "Multi-Period Matching with Externalities," with S. Ghosh. **工作市场论文（Job Market Paper）。**
 3. "Instantaneous Stability and the Dynamic Matchmaker Game," with S. Ghosh.
-4. "Strategic Commitment and Legal Enforcement in Dynamic Matching," with J. Zheng.
-5. "Dynamic Matching with Commitments," with M. Zhang and J. Zheng.
-6. "School Choice with Positional Contest," with Y. Zhang and J. Zheng.
+4. "Strategic Commitment and Consent Rights in Dynamic Matching."
+5. "Paying to Compete: Knowledge Contributions and Reuse on AI Platforms." 独作。
+6. "School Choice with Positional Contest." 合作者：张永超。
 7. "Major Choice with Priority-Determined Positions." 独作。
 8. "Reputational Attribution, Retention, and Expert Communication." 独作。
 
@@ -79,6 +79,8 @@ author: zh
 
 科研项目
 ======
+* **中国博士后科学基金第80批面上资助**，2026年，项目负责人（拟资助，公示中）。
+  * 项目名称：带承诺机制的动态匹配理论研究。
 * **山东省博士后创新人才计划项目（种子计划）**（项目编号：SDZZ-SH-20201012），2025.9 – 2027.9
   * 项目名称：动态就业匹配中的稳定性-效率权衡：策略承诺与法律规制的作用
   * 角色：主持人
@@ -95,4 +97,3 @@ author: zh
 推荐人
 ======
 * **[Sambuddha Ghosh 教授](https://econ.sufe.edu.cn/SambuddhaGhosh/main.htm)**
-* **[唐前锋教授](https://econ.sufe.edu.cn/tqf/main.htm)**
