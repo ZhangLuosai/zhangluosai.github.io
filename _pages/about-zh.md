@@ -51,14 +51,14 @@ layout: single-zh
 - **Instantaneous Stability and the Dynamic Matchmaker Game.**  
   合作者：S. Ghosh。工作论文。
 
-- **Strategic Commitment and Legal Enforcement in Dynamic Matching.**  
-  合作者：J. Zheng。工作论文。
+- **Strategic Commitment and Consent Rights in Dynamic Matching.**  
+  工作论文。
 
-- **Dynamic Matching with Commitments.**  
-  合作者：M. Zhang and J. Zheng。工作论文。
+- **Paying to Compete: Knowledge Contributions and Reuse on AI Platforms.**  
+  独作。工作论文。
 
 - **School Choice with Positional Contest.**  
-  合作者：张永超、郑捷。工作论文。
+  合作者：张永超。工作论文。
 
 - **Major Choice with Priority-Determined Positions.**  
   独作。工作论文。
