@@ -51,14 +51,14 @@ Working Papers and Papers Under Review
 - **Instantaneous Stability and the Dynamic Matchmaker Game.**  
   With S. Ghosh. Working paper.
 
-- **Strategic Commitment and Legal Enforcement in Dynamic Matching.**  
-  With J. Zheng. Working paper.
+- **Strategic Commitment and Consent Rights in Dynamic Matching.**  
+  Working paper.
 
-- **Dynamic Matching with Commitments.**  
-  With M. Zhang and J. Zheng. Working paper.
+- **Paying to Compete: Knowledge Contributions and Reuse on AI Platforms.**  
+  Sole-authored working paper.
 
 - **School Choice with Positional Contest.**  
-  With Y. Zhang and J. Zheng. Working paper.
+  With Y. Zhang. Working paper.
 
 - **Major Choice with Priority-Determined Positions.**  
   Sole-authored working paper.
